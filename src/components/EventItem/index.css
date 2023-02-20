@@ -1,0 +1,37 @@
+.event-item {
+  width: 90%;
+  list-style: none;
+  margin-right: 23px;
+  margin-bottom: 32px;
+}
+.event-button {
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.event-image {
+  width: 100%;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  max-width: 460px;
+}
+
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+.name {
+  color: #f8fafc;
+  line-height: 1.2;
+  font-size: 24px;
+  font-family: 'Roboto';
+  margin-top: 12px;
+}
+
+.location {
+  color: #f8fafc;
+  line-height: 23px;
+  font-size: 16px;
+  margin-top: 4px;
+}
